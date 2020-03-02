@@ -1,8 +1,8 @@
 module.exports = {
-  siteName: 'apparent_dev',
-  siteDescription: "A documentation of Alausa Ibrahim's Journey on his path to becoming a black belt developer",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
-  titleTemplate: `%s | aspiring black belt dev`,
+  siteName: 'apparentdev',
+  siteDescription: "read, reflect, implement, and share",
+  siteUrl: 'https://www.apparentdev.com/',
+  titleTemplate: `%s | read, reflect, implement, and share`,
   icon: 'src/favicon.png',
 
   transformers: {
@@ -38,7 +38,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-135446199-1',
+        id: 'UA-159331346-1',
       },
     },
     {
