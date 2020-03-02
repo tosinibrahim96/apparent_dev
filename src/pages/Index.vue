@@ -8,7 +8,7 @@
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
             <g-link to="/" class="text-black">apparent_dev</g-link>
           </h1>
-          <p class="text-gray-700 text-lg sm:text-3xl">The Official Docs of My Journey to Mastery</p>
+          <p class="text-gray-700 text-lg sm:text-3xl">read, reflect, implement, and share</p>
         </div>
       </header>
       <section>
@@ -62,7 +62,7 @@ export default {
       return config;
     },
     ogImageUrl() {
-      return `${this.config.siteUrl}/images/bledaa-card.png`;
+      return `${this.config.siteUrl}/images/bleda-card.png`;
     }
   }
 };
