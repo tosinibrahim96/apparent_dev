@@ -3,9 +3,12 @@ title: "Hello, World 😉 "
 slug: hello-world
 description: "Describing the problem with how I was learning programming and a new approach to supercharge my learning"
 date: 2020-03-02 11:33:12
+author: Ibrahim Alausa
 tags:
     - new-beginning
     - hello-world
+cover: https://images.unsplash.com/photo-1566312922674-e02730f7b912?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80
+fullscreen: false
 ---
 
 ## Who is this dude?
