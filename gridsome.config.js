@@ -1,6 +1,6 @@
 module.exports = {
   siteName: 'apparentdev',
-  siteDescription: "read, reflect, implement, and share",
+  siteDescription: "read, reflect, implement & share",
   siteUrl: 'https://www.apparentdev.com/',
   titleTemplate: `%s | read, reflect, implement, and share`,
   icon: 'src/favicon.png',
