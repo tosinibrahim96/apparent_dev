@@ -11,11 +11,11 @@ cover: https://images.unsplash.com/photo-1583684977172-528983104c31?ixlib=rb-1.2
 fullscreen: false
 ---
 
-I previously wrote a post [here](https://www.apparentdev.com/don-t-make-the-same-mistake-i-made-while-trying-to-get-that-first-software-job/) where I talked about how I recognized I had knowledge gaps and wanted to take action to work on myself. Here it is. **Journey of a Javascript Samurai**. I don't how I came up with this title😂. It just sounds like a cool movie title. The plan is to learn and understand as little as possible then try to explain and share whatever I have learned in the form of articles.
+I previously wrote a post [here](https://www.apparentdev.com/don-t-make-the-same-mistake-i-made-while-trying-to-get-that-first-software-job/) where I talked about how I recognized I had knowledge gaps and wanted to take action to work on myself. Here it is. **Journey of a Javascript Samurai**. I don't how I came up with this title😂. It just sounds like a cool movie title. The plan is to learn as little as possible, make sure understand whatever I learn, then try to explain and share whatever I have learned in the form of articles. Over time, I know these little drops of knowledge will become an ocean. 
 
 ## Lets move 🚀
 
-This article is a review of some of the essential points I took down from the first chapter of the first book in the [You don’t know JS](https://github.com/getify/You-Dont-Know-JS) series titled "Get Started" recommended by one of my colleagues. It’s crucial to mention that the author specified that even though the book is titled "Get Started", **it's not intended as a beginner/intro book** and suggested you should spend a few months writing Javascript first so you can get the best out of the book. The things we will cover in this article include
+This article is a review of some of the essential points I took down from *the first chapter of the first book* in the [You don’t know JS](https://github.com/getify/You-Dont-Know-JS) series titled "Get Started" recommended by one of my colleagues. It’s crucial to mention that the author specified that the title might be "Get Started", but **it's not intended as a beginner/intro book**. He suggested you should spend a few months writing Javascript first so you can get the best out of the book. The things we will cover in this article include
 
 -   Relationship between Javascript and Java
 -   What is ECMAScript
