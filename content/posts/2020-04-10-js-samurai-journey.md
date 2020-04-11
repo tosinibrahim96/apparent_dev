@@ -11,7 +11,7 @@ cover: https://images.unsplash.com/photo-1583684977172-528983104c31?ixlib=rb-1.2
 fullscreen: false
 ---
 
-I previously wrote a post [here](https://www.apparentdev.com/hello-world/) where I talked about how I recognized I had knowledge gaps and wanted to take action to work on myself. Here it is. **Journey of a Javascript Samurai**. I don't how I came up with this title😂. It just sounds like a cool movie title. The plan is to learn and understand as little as possible then try to explain and share whatever I have learned in the form of articles.
+I previously wrote a post [here](https://www.apparentdev.com/don-t-make-the-same-mistake-i-made-while-trying-to-get-that-first-software-job/) where I talked about how I recognized I had knowledge gaps and wanted to take action to work on myself. Here it is. **Journey of a Javascript Samurai**. I don't how I came up with this title😂. It just sounds like a cool movie title. The plan is to learn and understand as little as possible then try to explain and share whatever I have learned in the form of articles.
 
 ## Lets move 🚀
 
