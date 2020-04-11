@@ -1,5 +1,5 @@
 ---
-title: "Hello, World 😉 "
+title: "Don't make the same mistake I made while trying to get that first software job 😉"
 slug: hello-world
 description: "Describing the problem with how I was learning programming and a new approach to supercharge my learning"
 date: 2020-03-02 11:33:12
