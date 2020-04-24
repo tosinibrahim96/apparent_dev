@@ -12,7 +12,7 @@ cover: https://images.unsplash.com/photo-1564517746937-14218d983034?ixlib=rb-1.2
 fullscreen: false
 ---
 
-You can check out episode 1 of this series [here](https://www.apparentdev.com/journey-of-a-javascript-samurai-s01-e01/) 😉. We talked about the relationship between Javascript & Java, Relationship between ECMAScript & Javascript, Javascript environments, and how their APIs are different from the core Javascript language and finally the Programming Paradigms used in Javascript. It's a great one, trust me 🤞🏽.
+In the previous episode, we talked about the relationship between Javascript & Java, Relationship between ECMAScript & Javascript, Javascript environments and their APIs and how they are different from the core Javascript language. We rounded up that episode with the Programming Paradigms used in Javascript It's a great one, trust me 🤞🏽. Check it out [here](https://www.apparentdev.com/journey-of-a-javascript-samurai-s01-e01/) 😉
 
 ## Lets move 🚀
 
@@ -25,7 +25,7 @@ In this article, we will talk about compatibility in Javascript language with br
 
 ### What is compatibility
 
-According to [techtarget](https://whatis.techtarget.com/), compatibility is the capacity for two systems to work together without having to be altered to do so - [source](https://whatis.techtarget.com/definition/compatibility). In our case, the two systems involved are the Browser and the Javascript code we write.
+According to [techtarget](https://whatis.techtarget.com/), compatibility is the capacity for two systems to work together without having to be altered to do so. In our case, the two systems involved are the Browser and the Javascript code we write.
 
 ### Forward compatibility vs Backward compatibility
 
@@ -51,18 +51,18 @@ In the image above, the syntax on the left uses the ES2015 `const` keyword for v
 
 ### Sometimes, the problem is not Javascript
 
-Sometimes the issue may not be the Javascript syntax, the Javascript environment may not support a certain API. I described the differnce between Javascript syntax and Javascript environment API [here](https://www.apparentdev.com/journey-of-a-javascript-samurai-s01-e01/). We may encounter an issue where a browser functionality is available in firefox but not in Internet Explorer, then we use A [shim/polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill) to mimic the feature so we have something to fallback to for non supporting browsers.
+Sometimes the issue may not be the Javascript syntax, the Javascript environment may not support a certain API. I described the difference between Javascript syntax and Javascript environment API [here](https://www.apparentdev.com/journey-of-a-javascript-samurai-s01-e01/). We may encounter an issue where a browser functionality is available in firefox but not in Internet Explorer, then we use A [shim/polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill) to mimic the feature so we have something to fallback to for non supporting browsers.
 
 #### Example
 
 When performing DOM manipulation using `ChildNode.replaceWith()`, this is the regular syntax below
 
-[![Syntax from MDN](https://i.imgur.com/KD2KKuc.png)](https://i.imgur.com/KD2KKuc.png)
+[![Syntax for ChildNode.replaceWith()](https://i.imgur.com/se9WVrJ.png)](https://i.imgur.com/se9WVrJ.png)
 <br>
 
 However, performing the same action on Safari or Internet Explorer 10+ and higher, a [polyfill](https://developer.mozilla.org/en-US/docs/Glossary/Polyfill) is required and here's what we have to do
 
-[![Syntax from MDN](https://i.imgur.com/c5BD5YK.png)](https://i.imgur.com/c5BD5YK.png)
+[![Polyfill Syntax for ChildNode.replaceWith()](https://i.imgur.com/VtFheuh.png)](https://i.imgur.com/VtFheuh.png)
 <br>
 
 ### It's a Wrap
@@ -73,7 +73,7 @@ Like always, thanks for making it this far. I appreciate it. The major points I 
 -   Javascript is backwards compatible, not forward i.e old syntax will always work in new browsers.
 -   We can create the illusion of forward compatibility in Javascript (new syntax working in old browsers) by using a transpiler like Babel.
 -   When the issue is with the Javascript environment API and not the language, we make use of a polyfill instead of transpiler.
--   Having a good understanding of the difference between core Javascript syntax and Javascript environment API will help you understand if what you need is a polyfill or a transpiler.
+-   Having a good understanding of the difference between core Javascript syntax and Javascript environment API as decribed [here](https://www.apparentdev.com/journey-of-a-javascript-samurai-s01-e01/) will help you understand if what you need is a polyfill or a transpiler.
 
 Please reach out to me on [LinkedIn](https://www.linkedin.com/in/ibrahim-alausa-624a47140/) or [Twitter](https://twitter.com/apparent_dev) for questions, comments, and feedback. I would love to hear and learn from you too.
 
