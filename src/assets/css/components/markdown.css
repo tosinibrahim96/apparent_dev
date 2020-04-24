@@ -5,6 +5,10 @@
     @apply mb-4;
   }
 
+  p{
+    line-height: 1.6
+  }
+
   ul li,
   ol li {
     @apply mb-4;
